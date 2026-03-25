@@ -10,7 +10,7 @@
 **Mais de 16 anos entregando soluções de gestão para pequenas empresas.**
 
 [![Website](https://img.shields.io/badge/Site%20Oficial-eagletecnologia.com-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://eagletecnologia.com)
-[![WhatsApp](https://img.shields.io/badge/Suporte%20WhatsApp-(33)%203508--2064-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/553335082064)
+[![WhatsApp](https://img.shields.io/badge/Suporte%20WhatsApp-(33)%203508--0264-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/553335080264)
 [![Email](https://img.shields.io/badge/E--mail-suporte%40eagletecnologia.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suporte@eagletecnologia.com)
 [![Portal Revenda](https://img.shields.io/badge/Portal%20da%20Revenda-Acessar-orange?style=for-the-badge&logo=shield&logoColor=white)](https://portal.revendadesoftware.com.br)
 
