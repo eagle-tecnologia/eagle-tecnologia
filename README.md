@@ -32,9 +32,9 @@ A **Eagle Tecnologia** é uma empresa de tecnologia sediada em **Guanhães, Mina
 
 | 📍 Endereço | R. Wantuil Caldeira, 190 - Expansão, Guanhães - MG |
 |---|---|
-| 📞 Telefone | [(33) 3038-1657](https://wa.me/553330381657) |
-| 📧 E-mail | [gestao@eagletecnologia.com](mailto:gestao@eagletecnologia.com) |
-| 🕐 Atendimento | Segunda à Sexta, das 8h às 18h |
+| 📞 Telefone | [(33) 3508-0264](https://wa.me/553335080264) |
+| 📧 E-mail | [suporte@eagletecnologia.com](mailto:suporte@eagletecnologia.com) |
+| 🕐 Atendimento | Segunda à Sexta, das 8h às 18h e Sabado, das 8h às 12h |
 
 ---
 
@@ -101,10 +101,10 @@ Nossa equipe de suporte é **humanizada** e está disponível para auxiliar em q
 
 | Canal | Contato |
 |---|---|
-| 💬 **WhatsApp** | [(33) 3038-1657](https://wa.me/553330381657) |
-| 📞 **Ligação Telefônica** | (33) 3038-1657 |
-| 📧 **E-mail** | [gestao@eagletecnologia.com](mailto:gestao@eagletecnologia.com) |
-| 🕐 **Horário de Atendimento** | Segunda à Sexta, 8h às 18h |
+| 💬 **WhatsApp** | [(33) 3508-0264](https://wa.me/553335080264) |
+| 📞 **Ligação Telefônica** | (33) 3508-0264 |
+| 📧 **E-mail** | [suporte@eagletecnologia.com](mailto:suporte@eagletecnologia.com) |
+| 🕐 **Horário de Atendimento** | Segunda à Sexta, 8h às 18h e Sabado, das 8h às 12h |
 
 > ☁️ **Clientes Eagle Gestão Nuvem:** O suporte continua pelos mesmos canais, sem alteração.
 
@@ -129,7 +129,7 @@ Nossa equipe de suporte é **humanizada** e está disponível para auxiliar em q
 
 - Os recursos deste repositório são de uso **exclusivo da equipe interna e revendas autorizadas**.
 - É **proibida** a redistribuição de qualquer material sem autorização expressa da Eagle Tecnologia.
-- Para dúvidas sobre permissões de acesso, entre em contato pelo e-mail [gestao@eagletecnologia.com](mailto:gestao@eagletecnologia.com).
+- Para dúvidas sobre permissões de acesso, entre em contato pelo e-mail [suporte@eagletecnologia.com](mailto:suporte@eagletecnologia.com).
 
 ---
 
